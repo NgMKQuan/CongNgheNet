@@ -1,0 +1,96 @@
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBacSi.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBaoCaoDoanhThuThang.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBenhNhan.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDangNhap.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDonThuoc.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormHoaDon.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormMain.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormNguoiDung.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormPhongBenh.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeBenhNhanThang.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeDonThuoc.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThuoc.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeThuocThang.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTimDonThuoc.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTroGiup.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+E:\HK5 ( 2023-2024 )\Công nghệ .NET\QuanLyBenhVien_Full_src\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBacSi.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBaoCaoDoanhThuThang.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBenhNhan.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDangNhap.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDonThuoc.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormHoaDon.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormMain.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormNguoiDung.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormPhongBenh.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeBenhNhanThang.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeDonThuoc.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThuoc.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeThuocThang.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTimDonThuoc.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTroGiup.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ASUS\Desktop\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBacSi.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBaoCaoDoanhThuThang.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBenhNhan.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDangNhap.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDonThuoc.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormHoaDon.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormMain.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormNguoiDung.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormPhongBenh.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeBenhNhanThang.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeDonThuoc.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThuoc.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeThuocThang.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTimDonThuoc.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTroGiup.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+C:\Users\ASUS\Desktop\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBacSi.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBaoCaoDoanhThuThang.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormBenhNhan.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDangNhap.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormDonThuoc.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormHoaDon.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormMain.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormNguoiDung.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormPhongBenh.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeBenhNhanThang.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeDonThuoc.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThuoc.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormThongKeThuocThang.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTimDonThuoc.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.FormTroGiup.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\HK5 ( 2023-2024 )\Công nghệ .NET\Báo cáo\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb

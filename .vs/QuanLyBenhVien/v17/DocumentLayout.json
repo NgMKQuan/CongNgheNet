@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|d:\\hk5 ( 2023-2024 )\\c\u00F4ng ngh\u1EC7 .net\\b\u00E1o c\u00E1o\\quanlybenhvien\\quanlybenhvien\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\bus\\bacsibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\bus\\bacsibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\quanlybenhvien\\icons8_hospital.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{DF10EADB-4C80-451A-BAFA-45667CB4A119}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\icons8_hospital.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormDangNhap.cs",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormDangNhap.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\FormDangNhap.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAEwCIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-05T04:19:45.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-05T04:19:45.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBenhNhan.cs",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormBenhNhan.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormBenhNhan.cs",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormBenhNhan.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\FormBenhNhan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:19:46.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BacSiBUS.cs",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\BUS\\BacSiBUS.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\BUS\\BacSiBUS.cs",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\BUS\\BacSiBUS.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\BUS\\BacSiBUS.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:19:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBenhNhan.cs [Design]",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormBenhNhan.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormBenhNhan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormBenhNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-05T04:19:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\App.config",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\App.config",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\App.config",
+              "RelativeToolTip": "QuanLyBenhVien\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-05T04:19:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\DAL\\KetNoi.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\DAL\\KetNoi.cs",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\DAL\\KetNoi.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\DAL\\KetNoi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:19:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "icons8_hospital.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\icons8_hospital.ico",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\icons8_hospital.ico",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\icons8_hospital.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-09-05T04:19:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormMain.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormMain.cs",
+              "ToolTip": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormMain.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\FormMain.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-05T04:19:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\HK5 ( 2023-2024 )\\C\u00F4ng ngh\u1EC7 .NET\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormMain.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\FormMain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\B\u00E1o c\u00E1o\\QuanLyBenhVien\\QuanLyBenhVien\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-05T04:19:46.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
